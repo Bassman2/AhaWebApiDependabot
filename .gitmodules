@@ -1,0 +1,6 @@
+[submodule "AhaWebApi"]
+	path = AhaWebApi
+	url = https://github.com/Bassman2/AhaWebApi
+[submodule "WebServiceClient"]
+	path = WebServiceClient
+	url = https://github.com/Bassman2/WebServiceClient
