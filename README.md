@@ -1,0 +1,2 @@
+# AhaWebApiDependabot
+Dependabot for AhaWebApi
